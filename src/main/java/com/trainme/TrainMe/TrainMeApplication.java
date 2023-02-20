@@ -8,6 +8,7 @@ public class TrainMeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TrainMeApplication.class, args);
+        System.out.println("XDD");
     }
 
 }
